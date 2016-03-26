@@ -6,7 +6,7 @@ namespace AndyBox
     {
         static void Main()
         {
-            Console.WriteLine("Hello Andy");
+            Console.WriteLine("Your mom.");
             Console.ReadKey();
         }
     }
